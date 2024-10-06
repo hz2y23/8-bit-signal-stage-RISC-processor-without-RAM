@@ -4,6 +4,7 @@ This lab is designed to provide hands-on experience with fundamental aspects of 
 
 Control Signals
 The controller outputs several control signals, which are used within the system. The following control signals are defined below:
+
 •	EXE_CMD: Determines the specific ALU operation to be performed on operand data such as addition, subtraction, or logical functions.
 
 •	Reg_W: Enables writing the result into a specified register file.
