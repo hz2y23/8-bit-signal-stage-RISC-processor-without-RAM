@@ -1,0 +1,3 @@
+This design aims to implement a simplified 8-bit RISC processor system that executes instructions within a single cycle. The system is streamlined for educational purposes, omitting complex features like RAM and multi-cycle instruction processing. Instead, all operations, including ALU computations, are completed in a single clock cycle, making the architecture straightforward and easy to understand.
+
+This lab is designed to provide hands-on experience with fundamental aspects of processor architecture and design based on instruction sets developed within the RV32I. Through this simplified model, students will practically practice core concepts of computers like instructions execution and branch.
